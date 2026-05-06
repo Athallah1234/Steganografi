@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/GUI-PySide6-orange?style=for-the-badge&logo=qt" alt="GUI">
   <img src="https://img.shields.io/badge/Security-AES--256-red?style=for-the-badge&logo=lock" alt="Security">
-  <img src="https://img.shields.io/badge/Maintainer-Antigravity-purple?style=for-the-badge" alt="Maintainer">
+  <img src="https://img.shields.io/badge/Maintainer-Athallah1234-purple?style=for-the-badge" alt="Maintainer">
 </p>
 
 **AegisVault** adalah aplikasi desktop steganografi tingkat lanjut yang menggabungkan keindahan desain modern dengan keamanan enkripsi militer. Sembunyikan pesan rahasia Anda di dalam gambar PNG tanpa meninggalkan jejak visual sedikitpun.
@@ -34,7 +34,7 @@ AegisVault dirancang untuk pengguna yang mementingkan **Privasi**, **Estetika**,
 
 | Encode Mode | Decode Mode |
 | :--- | :--- |
-| ![Encode](https://via.placeholder.com/400x250?text=Encode+Interface+Mockup) | ![Decode](https://via.placeholder.com/400x250?text=Decode+Interface+Mockup) |
+| ![Encode](assets/encode.png) | ![Decode](assets/decode.png) |
 
 ---
 
